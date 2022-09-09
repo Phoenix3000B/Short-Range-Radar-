@@ -1,0 +1,22 @@
+Follow the circuit connecton-
+
+
+ultrasonic TO UNO
+vcc = Vin
+trig=10
+echo=11
+gnd=gnd
+
+SERVO TO UNO
+vcc = 5v
+gnd = gnd
+signal = 12
+
+
+
+IF YOU HAVE ANY DOUBT THEN YOU CAN ASK IN THE COMMENT SECTION
+OR YOU CAN ASK ME ON FACEBOOK OR INSTAGRAM
+www.facebook.com/rudradiycrafts
+www.instagram.com/rudra_diy_crafts
+
+AND DO SUBSCRIBE THE CHANNEL AND HIT THE BELL ICON
